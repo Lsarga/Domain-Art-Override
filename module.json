@@ -2,7 +2,7 @@
   "id": "domain-art",
   "title": "Domain Art Override",
   "description": "<p>Substitui as imagens padrão de Domain Cards pelas artes oficiais.</p>",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -16,6 +16,6 @@
       "flags": {}
     }
   ],
-  "manifest": "",
+  "manifest": "https://github.com/Lsarga/Domain-Art-Override/blob/main/module.json",
   "flags": {}
 }
