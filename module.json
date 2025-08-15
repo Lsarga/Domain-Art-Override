@@ -16,6 +16,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/Lsarga/Domain-Art-Override/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Lsarga/Domain-Art-Override/refs/heads/main/module.json",
   "flags": {}
 }
