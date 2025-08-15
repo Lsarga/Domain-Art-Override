@@ -1,0 +1,21 @@
+{
+  "id": "domain-art",
+  "title": "Domain Art Override",
+  "description": "<p>Substitui as imagens padrão de Domain Cards pelas artes oficiais.</p>",
+  "version": "0.9.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "scripts": [
+    "init.js"
+  ],
+  "authors": [
+    {
+      "name": "Luiz Nogueira",
+      "flags": {}
+    }
+  ],
+  "manifest": "",
+  "flags": {}
+}
